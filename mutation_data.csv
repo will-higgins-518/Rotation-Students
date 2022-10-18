@@ -1,4 +1,4 @@
-mutation,trial1,trial1_err,trial2,trial2_err
+mutation,kd1,kd1_err,kd2,kd2_err
 L41K,57.0,0.001,73.8,0.05
 L41R,63.7,0.005,64.2,0.002
 L48Q,18.4,0.6,18.9,0.1
